@@ -1,0 +1,10 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Vom Entrypoint erzeugtes Neos-Projekt
+/app/*
+!/app/.gitkeep
